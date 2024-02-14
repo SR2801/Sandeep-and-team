@@ -1,5 +1,5 @@
-#Domain: Extended Reality
-#Problem Statement:
+Domain: Extended Reality
+Problem Statement:
 The training operations of the Air Force pose significant financial challenges, primarily 
 due to the high cost of fuel required for aircraft operations. Ensuring the highest standards of 
 training for personnel is paramount, especially considering the substantial investment in 
@@ -11,10 +11,10 @@ aircraft. By leveraging state-of-the-art technology, such as virtual reality and
 reality, airmen will be able to engage in realistic simulations of flight maneuvers and navigation 
 through various terrains.
 
-#Keywords:
+Keywords:
 Terrain generation, Virtual reality, Extended reality.
 
-#References:
+References:
 1. W. G. R. M. P. S. Rathnayake, "Usage of Mixed Reality for Military Simulations," 2018 
 International Conference on Current Trends towards Converging Technologies (ICCTCT), 
 Coimbatore, India, 2018, pp. 1-5, doi: 10.1109/ICCTCT.2018.8550993.
