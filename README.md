@@ -1,6 +1,3 @@
-# Sandeep-and-team
-Application of Mixed Reality for Airforce Operations and 
-Training
 Domain: Extended Reality
 Problem Statement:
 The training operations of the Air Force pose significant financial challenges, primarily 
